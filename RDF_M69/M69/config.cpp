@@ -147,7 +147,7 @@ class cfgWeapons
 	class HeadGearItem;
 	class RDF_M69_M11_U_Officer: Uniform_Base
 	{
-		author="Phantom hawk"
+		author="Phantom hawk";
 		_generalMacro="RDF_M69_M11_U_Officer";
 		scope=2;
 		displayName="RDF M69";
