@@ -120,7 +120,7 @@ class cfgWeapons
 	class HeadGearItem;
 	class RDF_M69_M11_U: Uniform_Base
 	{
-		author="Phantom hawk"
+		author="Phantom hawk";
 		scope=2;
 		displayName="RDF M69 MTP (MG)";
 		picture="\A3\characters_f\data\ui\icon_U_IR_Officer_spc_ca.paa";
